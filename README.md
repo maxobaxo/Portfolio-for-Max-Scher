@@ -28,10 +28,10 @@ I love developing graceful solutions to technical challenges. I believe coding i
 
 ## Group Projects
 * [Moe's Kombucha](https://github.com/maxobaxo/moes)
- * _PHP application utilizing MySQL database to maintain a functional shopping cart for an online store_
+  * _PHP application utilizing MySQL database to maintain a functional shopping cart for an online store_
 * [Run For President](https://github.com/maxobaxo/run4prez)
- * _A Role-Playing-Game (RPG) allowing users to run for president_
- * _Users gain/lose funds and/or reputation based on their campaign decisions_
+  * _A Role-Playing-Game (RPG) allowing users to run for president_
+  * _Users gain/lose funds and/or reputation based on their campaign decisions_
  
  ## Blog
  * [Personal Development Blog](https://maxobaxo.com)
