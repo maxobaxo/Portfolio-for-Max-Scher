@@ -3,7 +3,7 @@
 I love developing graceful solutions to technical challenges. I believe coding is a true craftsman's trade; it requires diligence, patience, and unceasing passion for continuous learning and improvement. I have learned the majority of my coding skills from [Epicodus](www.epicodus.com), with supplemental tutorials through Free Code Camp, Codecademy, and Treehouse.
 
 ## Enhanced JavaScript
-* [The Poughkeepsie Pushers](https://github.com/maxobaxo/js-poughkeepsie-pushers)
+* [The Poughkeepsie Pushers](/projects/enhanced-js/poughkeepsie-pushers)
   * _Angular.js application used to maintain an active roster for a recreational baseball team_
   * _Also, team members can communicate with each other via a message board_
 * [Wayward Pines Zoo: Animal Database](https://github.com/maxobaxo/js-zoo-db)
