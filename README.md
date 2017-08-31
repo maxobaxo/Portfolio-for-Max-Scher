@@ -14,9 +14,9 @@ I love developing graceful solutions to technical challenges. I believe coding i
 
 ## PHP
 * [Shoe Store](https://github.com/maxobaxo/shoes)
-  * _PHP application utilizing a MySQL database with many-to-many relationships_
+  * _PHP/Silex application utilizing a MySQL database with many-to-many relationships_
 * [Hair Salon](https://github.com/maxobaxo/hair-salon)
-  * _PHP application utilizing a MySQL database with one-to-many relationships_
+  * _PHP/Silex application utilizing a MySQL database with one-to-many relationships_
 * [String Checker](https://github.com/maxobaxo/word-frequency)
   * _Silex application that returns the frequency of a given string within the song lyrics of a selected song_
 
