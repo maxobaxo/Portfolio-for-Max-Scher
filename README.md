@@ -6,7 +6,7 @@ I love developing graceful solutions to technical challenges. I believe coding i
 * [The Poughkeepsie Pushers](https://github.com/maxobaxo/js-poughkeepsie-pushers)
   * _Angular.js application used to maintain an active roster for a recreational baseball team_
   * _Also, team members can communicate with each other via a message board_
-* [Wayward Pines Zoo: Animal Database](https://github.com/js-zoo-db)
+* [Wayward Pines Zoo: Animal Database](https://github.com/maxobaxo/js-zoo-db)
   * _Angular.js application used to maintain a database of zoo animals_
 * [Dev Daddies & Mommies](https://github.com/maxobaxo/js-ama)
   * _Ember.js application resembling an Ask-Me-Anything or Quora app_
