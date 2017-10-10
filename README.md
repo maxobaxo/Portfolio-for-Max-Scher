@@ -2,6 +2,11 @@
 
 I love developing graceful solutions to technical challenges. I believe coding is a true craftsman's trade; it requires diligence, patience, and unceasing passion for continuous learning and improvement. I have learned the majority of my coding skills from [Epicodus](www.epicodus.com), with supplemental tutorials through Free Code Camp, Codecademy, and Treehouse.
 
+## React
+* [Dad Helper](https://github.com/maxobaxo/dad-helper)
+  * _React-Redux application for new dads who need guidance on how to better understand their baby_
+  * _This app utilizes the api built for it at [Dad Helper API](https://github.com/maxobaxo/dad-helper-api)_
+
 ## Enhanced JavaScript
 * [The Poughkeepsie Pushers](https://github.com/maxobaxo/js-poughkeepsie-pushers)
   * _Angular.js application used to maintain an active roster for a recreational baseball team_
