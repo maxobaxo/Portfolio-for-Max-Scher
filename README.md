@@ -33,6 +33,7 @@ I love developing graceful solutions to technical challenges. I believe coding i
 
 ## Group Projects
 * [Social Anxiety Party Planner](https://github.com/maxobaxo/SAPP)
+  * _Javascript (Angular 2) application utilizing Firebase_
 * [Moe's Kombucha](https://github.com/maxobaxo/moes)
   * _PHP application utilizing MySQL database to maintain a functional shopping cart for an online store_
 * [Run For President](https://github.com/maxobaxo/run4prez)
