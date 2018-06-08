@@ -32,6 +32,7 @@ I love developing graceful solutions to technical challenges. I believe coding i
   * _Use Loops & Arrays to produce a classic coding exercise (a.k.a. Fizz-Buzz)_
 
 ## Group Projects
+* [Social Anxiety Party Planner](https://github.com/maxobaxo/SAPP)
 * [Moe's Kombucha](https://github.com/maxobaxo/moes)
   * _PHP application utilizing MySQL database to maintain a functional shopping cart for an online store_
 * [Run For President](https://github.com/maxobaxo/run4prez)
