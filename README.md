@@ -1,7 +1,7 @@
-# Selected Projects by Max Scher
-_Current portfolio site can be found at [maxobaxo.com](http://www.maxobaxo.com)_
+# Software Engineering by Max Scher
+_More about me can be found at [scher.dev](http://www.maxobaxo.com)_
 
-I love developing graceful solutions to technical challenges. I believe coding is a true craftsman's trade; it requires diligence, patience, and unceasing passion for continuous learning and improvement. I have learned the majority of my coding skills from working at [Nike Innovation Accelerator](https://github.com/NikeIA) (a.k.a. [Nike IA](https://news.nike.com/news/hannah-jones-innovation-sustainability)) and studying at [Epicodus](www.epicodus.com), with supplemental tutorials through Free Code Camp, Codecademy, and Treehouse.
+I like building web applications, solving technical problems to achieve business goals. I've honed my software skills during my time at [Isolary](https://isolary.com), [Nike Innovation Accelerator](https://github.com/NikeIA) (a.k.a. [Valiant Labs](https://news.nike.com/news/hannah-jones-innovation-sustainability)) and studying at [Epicodus](www.epicodus.com), with supplemental tutorials through Free Code Camp, Codecademy, and Treehouse.
 
 ## React
 * [Dad Helper](https://github.com/maxobaxo/dad-helper-alt)
